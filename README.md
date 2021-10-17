@@ -4,4 +4,4 @@ Implementation of the Markov clustering algorithm proposed by Van Dongon
 Simulation. PhD Thesis, University of Utrecht, The
 Netherlands.)
 
-#BetweennessCentralityCalculation
+# BetweennessCentralityCalculation
