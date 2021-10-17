@@ -5,3 +5,4 @@ Simulation. PhD Thesis, University of Utrecht, The
 Netherlands.)
 
 # BetweennessCentralityCalculation
+Modified Dijesstra algorithm to comupte betweenness centrality in social network
